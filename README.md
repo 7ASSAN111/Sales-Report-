@@ -39,4 +39,4 @@ The dataset was modeled using a Star Schema design by separating the data into F
 
 ## Dashboard Preview
 
-![Dashboard](image.png)
+![Dashboard](dashboard.png)
